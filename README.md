@@ -34,7 +34,7 @@ Here is a list of the mini-projects included in this repository: -->
 
 I am checking off topics as I learn them:
 
-- [ ] **Fundamentals** (JSX, Components, Props)
+- [x] **Fundamentals** (JSX, Components, Props)
 - [ ] **State Management** (useState)
 - [ ] **Side Effects** (useEffect)
 - [ ] **Routing** (React Router DOM)
