@@ -36,9 +36,9 @@ I am checking off topics as I learn them:
 
 - [x] **Fundamentals** (JSX, Components, Props)
 - [x] **State Management** (useState)
-- [ ] **Side Effects** (useEffect)
-- [ ] **Routing** (React Router DOM)
-- [ ] **Forms & Validation**
+- [x] **Side Effects** (useEffect)
+- [x] **Routing** (React Router DOM)
+- [x] **Forms & Validation**
 - [ ] **Context API**
 - [ ] **Custom Hooks**
 - [ ] **State Management Libraries** (Redux/Zustand)
